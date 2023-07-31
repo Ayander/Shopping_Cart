@@ -6,9 +6,6 @@ The code provides an interactive shopping experience in the terminal, allowing c
 
 ~The print_decorative_box() function: This function takes a list of lines (content) and prints them within a decorative box. It creates a decorative border using "+" and "-" characters to surround the content and make it visually appealing.
 
-![Screenshot (26)](https://github.com/Ayander/Shopping_Cart/assets/124681608/ded6af51-430e-4253-83b4-73c6c9105c6d)
-
-
 ~The display_items() function: This function takes a category as input and displays all available items in that category using the print_decorative_box() function.
 
 ~The calculate_total_cost() function: This function takes a cart (a dictionary containing items and their quantities) as input, calculates the total cost of the items in the cart, and applies a discount if the total cost is greater than R10. The discount rate is set to 10%, and the discount amount is calculated and returned along with the total cost.
@@ -24,3 +21,4 @@ The code provides an interactive shopping experience in the terminal, allowing c
 ~The shopping cart receipt is then displayed, showing the items and their prices within a decorative box using the print_decorative_box() function. The total cost and the amount saved from the discount are also displayed within this decorative box.
 
 ~Finally, a thank-you message is printed to thank the customer for shopping at Checkers Grocery.
+[Untitled_ Jul 31, 2023 4_10 PM.webm](https://github.com/Ayander/Shopping_Cart/assets/124681608/f3aabc36-2771-4c65-ae48-e76238922718)
