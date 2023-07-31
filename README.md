@@ -5,7 +5,8 @@ The code provides an interactive shopping experience in the terminal, allowing c
 ~The items dictionary: This dictionary contains different categories of items along with their prices. The categories are 'fruits', 'vegetables', 'dairy', 'meat', and 'beverages', and each category contains various items and their corresponding prices.
 
 ~The print_decorative_box() function: This function takes a list of lines (content) and prints them within a decorative box. It creates a decorative border using "+" and "-" characters to surround the content and make it visually appealing.
-![Screenshot (26)](https://github.com/Ayander/Shopping_Cart/assets/124681608/6898ec08-ad15-423b-b65a-549426175703)
+
+![Screenshot (26)](https://github.com/Ayander/Shopping_Cart/assets/124681608/ded6af51-430e-4253-83b4-73c6c9105c6d)
 
 
 ~The display_items() function: This function takes a category as input and displays all available items in that category using the print_decorative_box() function.
